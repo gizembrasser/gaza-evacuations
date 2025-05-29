@@ -1,4 +1,4 @@
-date,x_source,x_text,x_text_translated,x_timestamp_utc3,location_prompt,facebook_source,facebook_timestamp_utc3,leaflet,leaflet_text_translated,safezone_prompt,link,map_idf,map_full,map_zoom,displacement_blocks,labeled_safe_blocks,location,safezone,area_sq_km_displacement,area_sq_km_labeled_safe
+date,x_source,x_text,x_text_translated,x_timestamp_utc3,evacuation_zone_prompt,facebook_source,facebook_timestamp_utc3,leaflet,leaflet_text_translated,safezone_prompt,link,map_idf,map_full,map_zoom,displacement_blocks,labeled_safe_blocks,evacuation_zone,safezone,area_sq_km_displacement,area_sq_km_labeled_safe
 2025-05-26,https://x.com/AvichayAdraee/status/1926956432005517694,"#عاجل ‼️ الى سكان محافظة خانيونس، بني سهيلا، عبسان والقرارة
 ⭕️جيش الدفاع يشن هجوماً غير مسبوق لتدمير قدرات المنظمات الإرهابية
 ⭕️تواصل المنظمات الإرهابية اطلاق قذائف صاروخية من مناطقكم
@@ -404,9 +404,9 @@ For your safety, move immediately south toward the Salah al-Din axis.
 Any other movement puts you in danger!",Unknown,,,,,,,Jabalia,Salah al-Din,,
 2024-11-07,https://x.com/AvichayAdraee/status/1854518006581199092/photo/1,"#عاجل 🔴 الى كل السكان المتواجدين في قطاع غزة وتحديدًا في أحياء شمال الشاطئ، النصر، عبد الرحمن، مدينة العودة والكرامة.
 ⭕️تعود المنظمات الإرهابية وتطلق مرة أخرى قذائف صاروخية تجاه دولة اسرائيل.  
-⭕️لقد تم تخذير المنطقة المحددة عدة مرات في السابق. نخبركم ان المنطقة المحددة تعتبر https://t.co/IMHqiyUKSE"," 🔴 To all residents of the Gaza Strip, specifically in the neighborhoods of North Beach, Al-Nasr, Abd al-Rahman, and the City of Return and Dignity.
+⭕️لقد تم تخذير المنطقة المحددة عدة مرات في السابق. نخبركم ان المنطقة المحددة تعتبر https://t.co/IMHqiyUKSE"," 🔴 To all residents of the Gaza Strip, specifically in the neighborhoods of North Beach, Al-Nasr, Abd al-Rahman, and Madinat Al-Awda and Al-Karama.
 ⭕️ Terrorist organizations are once again firing rockets at the State of Israel.
-⭕️ The marked area has been previously alerted several times. We are informing you that the marked area is considered a dangerous combat zone. For your own safety, move immediately south.",16:35,"Gaza Strip, North Beach, Al-Nasr, Abd al-Rahman, City of Return and Dignity",,,,,Unknown,https://gazamaps.com/displacement/55,https://gazamaps.com/storage/displacement-maps/gaza/idf/dCSUX4hZg7gM028hLQaq3VXKOkVesOcFoJkyusZR.jpg,https://gazamaps.com/storage/displacement-maps/gaza/full/evdRuQdGgYmqrWYuzeOphAOp6CFANaUT0HZ55fmS.jpg,https://gazamaps.com/storage/displacement-maps/gaza/zoom/BUxeJRYnQ8ekBPRvF3XaX89inK7p8NNHdZ3S6lul.jpg,"762, 763, 766, 767, 768, 769, 770, 771, 980, 981, 982, 983",,"Gaza Strip, north Al-Shati, Al-Nasr, Abd al-Rahman, Madinat Al-Awda, Al-Karama",south,3.78,0.0
+⭕️ The marked area has been previously alerted several times. We are informing you that the marked area is considered a dangerous combat zone. For your own safety, move immediately south.",16:35,"North Beach, Al-Nasr, Abd al-Rahman, Madinat Al-Awda, Al-Karama",,,,,Unknown,https://gazamaps.com/displacement/55,https://gazamaps.com/storage/displacement-maps/gaza/idf/dCSUX4hZg7gM028hLQaq3VXKOkVesOcFoJkyusZR.jpg,https://gazamaps.com/storage/displacement-maps/gaza/full/evdRuQdGgYmqrWYuzeOphAOp6CFANaUT0HZ55fmS.jpg,https://gazamaps.com/storage/displacement-maps/gaza/zoom/BUxeJRYnQ8ekBPRvF3XaX89inK7p8NNHdZ3S6lul.jpg,"762, 763, 766, 767, 768, 769, 770, 771, 980, 981, 982, 983",,"Gaza Strip, north Al-Shati, Al-Nasr, Abd al-Rahman, Madinat Al-Awda, Al-Karama",south,3.78,0.0
 2024-11-01,,,,,Unknown,,,https://idfleaflets.com/34,"Urgent Warning!
 
 South of Salah al-Din
