@@ -41,3 +41,20 @@ async def scrape_tweet(url, delay=3, max_retries=3):
             if attempt == max_retries - 1:
                 return None, None
             await asyncio.sleep(2 ** attempt)  # Exponential backoff
+
+
+async def enrich(df):
+    """Enrich a DataFrame containing tweet URLs with tweet text and timestamp."""
+    texts = []
+    timestamps = []
+
+    for i, url in enumerate(df["source"].to_list()):
+        print(f"Scraping {i+1}/{len(df)}: {url}")
+
+        text, timestamp = await scrape_tweet(url)
+        texts.append(text)
+        timestamps.append(timestamp)
+    
+    df["source_text"] = texts
+    df["source_timestamp"] = timestamps
+    return df
